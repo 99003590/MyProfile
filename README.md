@@ -11,7 +11,7 @@ abhilipsa.bal@ltts.com
 1.ADO.NET \
 2.ASP.NET MVC \
 3.ASP.NET WEB API \
-4.Entity Framework \
+4.Entity Framework 
 
 ## Tools
 1.Visual Studio 2019 \
@@ -34,7 +34,7 @@ Microsoft C# Badges
 ![image](https://user-images.githubusercontent.com/78849866/112254620-e88d1b00-8c86-11eb-94e1-6a4ee4ed19ab.png) \
 
 
-## Certificate
+## Certification
 HackerRank C# Certification
 ![image](https://user-images.githubusercontent.com/78849866/112254002-cfd03580-8c85-11eb-9cb3-2aacb87ea1cf.png) \
 
