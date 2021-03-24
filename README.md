@@ -11,7 +11,9 @@ abhilipsa.bal@ltts.com
 1.ADO.NET \
 2.ASP.NET MVC \
 3.ASP.NET WEB API \
-4.Entity Framework 
+4.Entity Framework \
+5.WEB API FRAMEWORK\
+6.LAYERED APPROACH
 
 ## Tools
 1.Visual Studio 2019 \
@@ -24,7 +26,7 @@ abhilipsa.bal@ltts.com
 2.Git Hub(Actions, Version control, Repository Creation) 
 
 ## Badges
-Hacker rank Badges for Problem solving in C# and SQL \
+###### Hacker rank Badges for Problem solving in C# and SQL 
 ![image](https://user-images.githubusercontent.com/78849866/112252406-140e0680-8c83-11eb-9766-2b952bd5a64a.png) 
 
 Microsoft C# Badges
