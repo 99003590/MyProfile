@@ -1,13 +1,14 @@
 # Abhilipsa Bal
+## Contact Details
+abhilipsa.bal@ltts.com
+  
+### Programming Skills
+1.C#
+2..NET Framework
+3..NET 
+4.
 
-## Technologies Learned
-1.SDLC
-2.C#
-3.TSQL
-4.ADO.NET
-5.Entity Framework
-6.ASP.NET
-7.MVC
+
 
 
 
