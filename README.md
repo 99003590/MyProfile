@@ -40,7 +40,8 @@ Microsoft C# Badges
 HackerRank C# Certification
 ![image](https://user-images.githubusercontent.com/78849866/112254002-cfd03580-8c85-11eb-9cb3-2aacb87ea1cf.png) 
 
-
+## Mini Project Links
+[Bill Generator(SDLC)](https://github.com/99003660/Bill_Generator.git)
 
 
 
