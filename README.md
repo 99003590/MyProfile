@@ -5,7 +5,7 @@ abhilipsa.bal@ltts.com
   
 ## Programming Skills
 1.C#
-3.MySQL
+2.MySQL
 
 ## Framework
 1.ADO.NET
