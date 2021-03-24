@@ -5,7 +5,7 @@ abhilipsa.bal@ltts.com
   
 ### Programming Skills
 1.C#
-2.MySQL
+3.MySQL
 
 #### Framework
 1.ADO.NET
@@ -24,6 +24,10 @@ abhilipsa.bal@ltts.com
 2.Git Hub(Actions, Version control, Repository Creation)
 
 ## Badges
+Hacker rank Badges for Problem solving in C# and SQL
+![image](https://user-images.githubusercontent.com/78849866/112252406-140e0680-8c83-11eb-9766-2b952bd5a64a.png)
+
+
 
 
 
