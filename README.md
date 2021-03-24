@@ -42,6 +42,9 @@ HackerRank C# Certification
 
 ## Mini Project Links
 [Bill Generator(SDLC)](https://github.com/99003660/Bill_Generator.git)
+[DemoKart Database using TSQL](https://github.com/99003601/Demokart_DB.git)
+[ECommerce site using C#](https://github.com/99003601/DemoKart.git)
+[DemoKartAPI](https://abhilipsabal@dev.azure.com/abhilipsabal/DemoKartAPI/_git/DemoKartAPI)
 
 
 
